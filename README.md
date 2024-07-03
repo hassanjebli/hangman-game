@@ -2,7 +2,8 @@
 
 This is a simple Hangman game implemented using HTML, CSS, and JavaScript.
 
-![Hangman Game Screenshot](screenshot.png)
+![screenshot](https://github.com/hassanjebli/hangman-game/assets/151209380/d75a182e-1caa-47c9-bb32-433e19285642)
+
 
 ## Overview
 
